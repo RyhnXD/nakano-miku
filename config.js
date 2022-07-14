@@ -109,10 +109,10 @@ global.thumbnailUrl = [
 
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com/wudysoft.2'
-global.sgh = 'https://github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
-global.sdc = 'https://github.com/AyGemuy'
-global.snh = 'https://github.com/AyGemuy'
+global.sgh = 'https://github.com/RyhnXD'
+global.sgc = 'https://chat.whatsapp.com/KOughnpmtzzF0k9aX78CVq'
+global.sdc = 'https://github.com/RyhnXD'
+global.snh = 'https://github.com/RyhnXD'
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
@@ -379,7 +379,7 @@ global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'//Your Website
 global.logo = "https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg"//Your logo
-global.gcwangsaf = "https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM"//Link Group whatsapp
+global.gcwangsaf = "https://chat.whatsapp.com/KOughnpmtzzF0k9aX78CVq"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/wudysoft"// website saweria.co
