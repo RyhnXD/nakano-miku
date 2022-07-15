@@ -103,10 +103,10 @@ conn.isInit = false
 if (!opts['test']) {
   setInterval(async () => {
     if (global.db.data) await global.db.write().catch(console.error)
-    if (opts['autocleartmp']) try {
+   // if (opts['autocleartmp']) try {
       clearTmp()
 
-    } catch (e) { console.error(e) }
+   // } catch (e) { console.error(e) }
   }, 60 * 1000)
 }
 if (opts['server']) (await import('./server.js')).default(global.conn, PORT)
